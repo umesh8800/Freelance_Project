@@ -1,0 +1,38 @@
+.btn-primary{
+    width: 100% !important;
+    margin-top: 10%;
+    line-height: 3 !important;
+}
+
+
+.form_main{
+    padding: 4%;
+    border: 1px solid black;
+    width: 70%;
+    margin-left: 2%;
+    margin-top: 2%;
+
+}
+
+.heading{
+    margin-bottom: 6%;
+}
+
+.same{
+    width: 32%;
+    padding: 2%;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: inset;
+    margin-left: 2%;
+    text-align: center;
+    margin-top: 3%;
+    cursor: pointer;
+}
+
+
+.form-control{
+    width: 80%;
+    line-height: 2.5;
+}
+
